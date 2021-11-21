@@ -305,3 +305,6 @@ function bonus12() {
     return ordenadoPorTamanho;
 }
 showResults(bonus12())
+
+
+/////////
