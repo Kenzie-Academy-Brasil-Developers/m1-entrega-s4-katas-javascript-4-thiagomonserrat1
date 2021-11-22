@@ -273,13 +273,6 @@ function bonus8() {
 }
 showResults(bonus8())
 
-function bonus9() {
-    let header = document.createElement("div");
-    header.textContent = "bônus 9:";
-    document.body.appendChild(header);
-    // /\s/g
-
-}
 
 function bonus10() {
     let header = document.createElement("div");
